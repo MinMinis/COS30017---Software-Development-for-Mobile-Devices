@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Core1</string>
+
+    <string name="reset">Reset</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+    <string name="roll">Roll</string>
+    <string name="image_of_a_dice">Image of a dice</string>
+    <string name="_0">0</string>
+</resources>

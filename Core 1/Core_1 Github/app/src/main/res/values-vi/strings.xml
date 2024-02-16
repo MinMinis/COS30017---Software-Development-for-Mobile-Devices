@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core1</string>
+    <string name="reset">Đặt lại</string>
+    <string name="subtract">Trừ</string>
+    <string name="add">Cộng</string>
+    <string name="roll">Lăn</string>
+    <string name="image_of_a_dice">Hình ảnh của một con súc sắc</string>
+    <string name="_0">0</string>
+</resources>
