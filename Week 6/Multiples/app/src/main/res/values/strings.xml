@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multiples</string>
+    <string name="generate">Generate</string>
+    <string name="back">Back</string>
+    <string name="_0">0</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
