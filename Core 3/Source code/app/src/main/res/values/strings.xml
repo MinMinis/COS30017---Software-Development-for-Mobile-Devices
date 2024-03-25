@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Core3</string>
+    <string name="un_students">UN Students</string>
+    <string name="xsports">Xsports</string>
+    <string name="apolitical">Apolitical</string>
+    <string name="football">Football</string>
+    <string name="show_all">Show All</string>
+</resources>

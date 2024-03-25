@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/action_menu">
+    <item
+        android:id="@+id/student"
+        android:title="@string/un_students" />
+    <item
+        android:id="@+id/xsports"
+        android:title="@string/xsports" />
+    <item
+        android:id="@+id/apolitical"
+        android:title="@string/apolitical" />
+    <item
+        android:id="@+id/football"
+        android:title="@string/football" />
+    <item
+        android:id="@+id/all"
+        android:title="@string/show_all" />
+</menu>
